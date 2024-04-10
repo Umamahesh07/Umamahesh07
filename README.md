@@ -1,20 +1,26 @@
-# Uma Maheshwar Amanchi's GitHub Portfolio
+# Hello, I'm Uma Maheshwar Amanchi 👋
 
-Welcome to my GitHub portfolio! I'm Uma Maheshwar Amanchi, a Full Stack Software Developer with a passion for building scalable, secure, and user-centric applications on diverse cloud platforms. My expertise lies in Java, Spring, data management, mobile and web development, machine learning, and UI/UX design. I'm excited to share my projects and experiences with you.
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Umamahesh07)
+
+## Full Stack Software Engineer | Technology Enthusiast
 
 ## About Me
 
-I am a recent Master of Science graduate in Computer Science from Kent State University, with a background in Information Technology. My professional journey has been marked by a continuous pursuit of learning and excellence, reflected in my diverse experiences across software development, cloud deployment, and data management. I am driven by a passion for leveraging technology to solve real-world problems and create impactful solutions.
+I am Uma Maheshwar Amanchi, a Full Stack Software Developer with a Master of Science in Computer Science from Kent State University. Specializing in Java, Spring, and cloud technologies, I have a strong background in data management, mobile and web development, and machine learning. My experience includes optimizing backend infrastructure, designing user-friendly interfaces, and leading strategic updates in various cloud environments. Proficient in Agile and Scrum methodologies, I am committed to continuous learning and leveraging technology to create impactful solutions.
 
-## Featured Projects
+For a more detailed overview of my professional journey, please feel free to download my resume
+
+[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://drive.google.com/file/d/1-ER25NgoLC1-yt2z0BDrHo3Xjnb-gmGv/view?usp=drive_link)
+
+## My Recent Projects
 
 Here are some of the projects I've worked on that showcase my skills and capabilities:
 
 ### [AstroForecast](https://github.com/Umamahesh07/AstroForecast)
 - **Description:** AstroForecast is a ReactJS-based web application designed to deliver weather forecasts for cities globally.Utilizing the OpenWeatherMap API, the application empowers users to search for and access current weather conditions and forecast data for their selected locations.
-▪ Weather Search: Enables users to search and retrieve current weather conditions and a 5-day forecast for cities.
-▪ Responsive Design: Crafted for functionality on both desktop and mobile devices.
-▪ Weather Details: Showcases temperature, humidity, wind speed, and additional weather-related information.
+- Weather Search: Enables users to search and retrieve current weather conditions and a 5-day forecast for cities.
+- Responsive Design: Crafted for functionality on both desktop and mobile devices.
+- Weather Details: Showcases temperature, humidity, wind speed, and additional weather-related information.
 - **Technologies:** ReactJS, OpenWeatherMap API, Responsive Design
 
 ### [QuickConnect](https://github.com/Umamahesh07/QuickConnect)
@@ -51,6 +57,5 @@ Feel free to reach out if you have any questions, want to collaborate on a proje
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanchi.umamaheshwar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umamaheshwar-amanchi/)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Umamahesh07)
 
 Thank you for visiting my GitHub portfolio!
