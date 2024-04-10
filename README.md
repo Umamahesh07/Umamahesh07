@@ -1,21 +1,56 @@
-<h1 align="center">Hi 👋, I'm Uma Maheshwar Amanchi</h1>
-<h3 align="center">Software Developer</h3>
+# Uma Maheshwar Amanchi's GitHub Portfolio
 
-- 📝 I regularly write articles on [https://medium.com/@amanchi.umamaheshwar](https://medium.com/@amanchi.umamaheshwar)
+Welcome to my GitHub portfolio! I'm Uma Maheshwar Amanchi, a Full Stack Software Developer with a passion for building scalable, secure, and user-centric applications on diverse cloud platforms. My expertise lies in Java, Spring, data management, mobile and web development, machine learning, and UI/UX design. I'm excited to share my projects and experiences with you.
 
-- 💬 Ask me about **Node.js,React,Java**
+## About Me
 
-- 📫 How to reach me **amanchi.umamaheshwar@gmail.com**
+I am a recent Master of Science graduate in Computer Science from Kent State University, with a background in Information Technology. My professional journey has been marked by a continuous pursuit of learning and excellence, reflected in my diverse experiences across software development, cloud deployment, and data management. I am driven by a passion for leveraging technology to solve real-world problems and create impactful solutions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/umamaheshwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="umamaheshwar" height="30" width="40" /></a>
-<a href="https://twitter.com/umamaheshwar_a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umamaheshwar_a7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/umamaheshwar-amanchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umamaheshwar-amanchi" height="30" width="40" /></a>
-<a href="https://medium.com/@amanchi.umamaheshwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amanchi.umamaheshwar" height="30" width="40" /></a>
-</p>
+## Featured Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+Here are some of the projects I've worked on that showcase my skills and capabilities:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umamahesh07&show_icons=true&locale=en&layout=compact" alt="umamahesh07" /></p>
+### [AstroForecast](https://github.com/Umamahesh07/AstroForecast)
+- **Description:** AstroForecast is a ReactJS-based web application designed to deliver weather forecasts for cities globally.Utilizing the OpenWeatherMap API, the application empowers users to search for and access current weather conditions and forecast data for their selected locations.
+▪ Weather Search: Enables users to search and retrieve current weather conditions and a 5-day forecast for cities.
+▪ Responsive Design: Crafted for functionality on both desktop and mobile devices.
+▪ Weather Details: Showcases temperature, humidity, wind speed, and additional weather-related information.
+- **Technologies:** ReactJS, OpenWeatherMap API, Responsive Design
+
+### [QuickConnect](https://github.com/Umamahesh07/QuickConnect)
+- **Description:** Created 'Quick Connect,' a robust web application designed to streamline database management. Simplified data entry by automatically extracting and storing content from uploaded XML files directly into the MySQL database
+- **Technologies:** NodeJs, JavaScript, HTML, CSS, XML, MySQL
+
+### [Fake News Detection Using Text Analytics](https://github.com/Umamahesh07/Fake-News-Detection-Using-Text-Analytics)
+- **Description:** Developed a machine learning model utilizing K-means clustering and LDA topic modeling to identify fake news, achieving a high accuracy rate of 90% in detection.
+- **Technologies:** Machine Learning, K-Means Clustering, Topic Modeling, Python.
+
+### [TaskMate](https://github.com/Umamahesh07/TaskMate)
+- **Description:** TaskMate is a simple and intuitive task management web application, designed to help you keep track of your daily tasks efficiently. With a sleek and user-friendly interface, you can add, remove, and filter tasks based on their completion status. Additionally, TaskMate offers a sorting feature that allows you to arrange your tasks based on the time of addition.
+- **Technologies:** JavaScript, HTML, CSS.
+
+### [Infinite Scroll](https://github.com/Umamahesh07/Infinite_Scroll_React)
+- **Description:** This project presents a React-based photo gallery that implements infinite scrolling functionality, fetching and displaying images from the Unsplash API as the user scrolls. Utilizing React's useState and useEffect hooks for state management and side effects, the application seamlessly integrates dynamic content rendering with API-driven content. The gallery features a component-based architecture and efficient DOM updates, providing an engaging and continuously updating visual experience.
+- **Technologies:** ReactJS
+
+## Technical Skills
+
+- **Programming Languages:** C, C++, Java, Python, C#
+- **Web Development:** HTML, CSS, JavaScript, PHP, AJAX, jQuery
+- **Databases:** SQL Server, MySQL, PostgreSQL, MongoDB
+- **JavaScript Tech:** ReactJS, AngularJS, NodeJS
+- **Frameworks:** Spring, Spring Boot, Django, .Net Framework
+- **Cloud & Infrastructure:** Azure, AWS, Docker, Kubernetes,Jenkins
+- **Testing:** JUnit, Selenium
+- **Version Control & Collaboration Tools:** Git, GitHub, Jira, SVN, GitLab
+- **Methodologies:** Agile, Scrum, Waterfall, SDLC
+
+## Contact Me
+
+Feel free to reach out if you have any questions, want to collaborate on a project, or just want to connect!
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanchi.umamaheshwar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umamaheshwar-amanchi/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Umamahesh07)
+
+Thank you for visiting my GitHub portfolio!
