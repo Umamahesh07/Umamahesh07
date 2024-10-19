@@ -10,7 +10,7 @@ I’m Uma Maheshwar Amanchi, a Full Stack Software Developer with a Master’s i
 
 For a more detailed overview of my professional journey, please feel free to download my resume
 
-[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://drive.google.com/file/d/1VfJZ8UuTAlrgoOwIQEHP8nbRIF16Nklw/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://drive.google.com/file/d/1DPVYo0GzzmrFrCLssqxf-zB0vdBc92K8/view?usp=drive_link)
 
 ## My Recent Projects
 
