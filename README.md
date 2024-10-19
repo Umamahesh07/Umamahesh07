@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am Uma Maheshwar Amanchi, a Full Stack Software Developer with a Master of Science in Computer Science from Kent State University. Specializing in Java, Spring, and cloud technologies, I have a strong background in data management, mobile and web development, and machine learning. My experience includes optimizing backend infrastructure, designing user-friendly interfaces, and leading strategic updates in various cloud environments. Proficient in Agile and Scrum methodologies, I am committed to continuous learning and leveraging technology to create impactful solutions.
+I’m Uma Maheshwar Amanchi, a Full Stack Software Developer with a Master’s in Computer Science from Kent State University. I specialize in backend development using Java, Spring, and cloud technologies, with a strong focus on data management, mobile and web application development, and AI integration. My expertise includes optimizing backend infrastructure, enhancing system performance, and contributing to innovative solutions in cloud-based environments. Proficient in Agile and Scrum methodologies, I’m passionate about continuous learning and leveraging emerging technologies to build impactful and scalable software solutions.
 
 For a more detailed overview of my professional journey, please feel free to download my resume
 
@@ -46,6 +46,7 @@ Here are some of the projects I've worked on that showcase my skills and capabil
 - **Databases:** SQL Server, MySQL, PostgreSQL, MongoDB
 - **JavaScript Tech:** ReactJS, AngularJS, NodeJS
 - **Frameworks:** Spring, Spring Boot, Django, .Net Framework
+- **AI & Machine Learning:** Azure AI, Retrieval-Augmented Generation (RAG), Python Libraries for AI/ML, Chatbot Development
 - **Cloud & Infrastructure:** Azure, AWS, Docker, Kubernetes,Jenkins
 - **Testing:** JUnit, Selenium
 - **Version Control & Collaboration Tools:** Git, GitHub, Jira, SVN, GitLab
